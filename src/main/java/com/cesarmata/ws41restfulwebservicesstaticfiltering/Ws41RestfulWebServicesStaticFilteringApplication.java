@@ -9,5 +9,4 @@ public class Ws41RestfulWebServicesStaticFilteringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Ws41RestfulWebServicesStaticFilteringApplication.class, args);
 	}
-
 }
